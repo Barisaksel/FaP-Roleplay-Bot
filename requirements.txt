@@ -1,0 +1,4 @@
+DateTime==4.3
+discord==1.0.1
+nest-asyncio==1.5.1
+discord_components==2.1.2
